@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatisunkanmi&label=Profile%20views&color=0e75b6&style=flat" alt="olatisunkanmi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olatisunkanmi" alt="olatisunkanmi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/olatisunkanmi _" target="blank"><img src="https://img.shields.io/twitter/follow/olatisunkanmi _?logo=twitter&style=for-the-badge" alt="olatisunkanmi _" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/olatisunkanmi_" target="blank"><img src="https://img.shields.io/twitter/follow/olatisunkanmi_?logo=twitter&style=for-the-badge" alt="olatisunkanmi_" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Websites and Banking Systems**
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Fintect Projects**
 
-- 🤝 I’m looking for help with **c# and the .NET Framework**
+- 🤝 I’m looking for help with **C# and the .NET Framework**
 
 - 💬 Ask me about **creativity and Writing.**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/olatisunkanmi _" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olatisunkanmi _" height="30" width="40" /></a>
+<a href="https://twitter.com/olatisunkanmi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olatisunkanmi_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olatisunkanmi&show_icons=true&locale=en" alt="olatisunkanmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olatisunkanmi&" alt="olatisunkanmi" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olatisunkanmi" alt="olatisunkanmi" /></a> </p>
 
