@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/olatisunkanmi_" target="blank"><img src="https://img.shields.io/twitter/follow/olatisunkanmi_?logo=twitter&style=for-the-badge" alt="olatisunkanmi_" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Websites and Banking Systems**
+- 🔭 I’m currently Building a **Full Social Media Web-app**
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 👻 I’m currently learning **Algorithms and Data Structures**
 
 - 👯 I’m looking to collaborate on **Fintect Projects**
-
-- 🤝 I’m looking for help with **C# and the .NET Framework**
 
 - 💬 Ask me about **creativity and Writing.**
 
