@@ -1,19 +1,11 @@
 <h1 align="center">Hello, I'm Olasunkanmi Igbasan</h1>
 <h3 align="center">A passionate Fullstack MERN Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olatisunkanmi&label=Profile%20views&color=0e75b6&style=flat" alt="olatisunkanmi" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/olatisunkanmi_" target="blank"><img src="https://img.shields.io/twitter/follow/olatisunkanmi_?logo=twitter&style=for-the-badge" alt="olatisunkanmi_" /></a> </p>
-
-- 🔭 I’m currently Building a **Full Social Media Web-app**
 
 - 👻 I’m currently learning **Algorithms and Data Structures**
 
 - 👯 I’m looking to collaborate on **Fintect Projects**
 
-- 💬 Ask me about **creativity and Writing.**
 
 - ⚡ Fun fact **Did you know that "The Mona Lisa has no eyebrows."**
 
