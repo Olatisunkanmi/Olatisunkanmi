@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Olasunkanmi Igbasan</h1>
-<h3 align="center">A passionate Fullstack MERN Developer</h3>
+<h3 align="center">A passionate JAVASCRIPT Fullstack MERN Developer</h3>
 
 
 - 👻 I’m currently learning **Algorithms and Data Structures**
