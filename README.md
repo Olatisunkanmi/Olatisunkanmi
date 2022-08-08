@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Fintect Projects**
 
 
-- ⚡ Fun fact **Did you know that "The Mona Lisa has no eyebrows."**
+- ⚡ ** Be Yourself.**
 
 <!-- STack and Tools -->
 
