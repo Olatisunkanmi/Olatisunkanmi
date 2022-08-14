@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Fintect Projects**
 
-- 📝 I regularly write articles on [Crackedink.net](Crackedink.net)
+- 📝 I regularly write articles on [Crackedink.net](https://dev.to/olatisunkanmi)
 
 - 💬 Ask me about **creativity and Writing.**
 
