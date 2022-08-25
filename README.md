@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Igbsan Olasunkanmi</h1>
+<h1 align="center">Hi 👋, I'm Igbasan Olasunkanmi</h1>
 <h3 align="center">A passionate Backend- JavaScript Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olatisunkanmi&label=Profile%20views&color=0e75b6&style=flat" alt="olatisunkanmi" /> </p>
 
 - 🌱 I’m currently learning **Algorithms and Data Structures**
 
-- 👯 I’m looking to collaborate on **Fintect Projects**
+- 👯 I’m looking to collaborate on **Fintech Projects**
 
 - 📝 I regularly write articles on [Crackedink.net](https://dev.to/olatisunkanmi)
 
