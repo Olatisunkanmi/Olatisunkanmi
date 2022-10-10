@@ -16,6 +16,6 @@
 - ⚡ Fun fact **Did you know that "The Mona Lisa has no eyebrows."**
 
 <h3 align="left">Connect with me:</h3>
-![Codewars](https://github.r2v.ch/codewars?user=OlaTisun&stroke=%23BB432C)
+[Codewars](https://github.r2v.ch/codewars?user=OlaTisun&stroke=%23BB432C)
 
 
