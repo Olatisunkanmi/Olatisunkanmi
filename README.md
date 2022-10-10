@@ -16,18 +16,6 @@
 - ⚡ Fun fact **Did you know that "The Mona Lisa has no eyebrows."**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/olatisunkanmi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olatisunkanmi_" height="30" width="40" /></a>
-</p>
+![Codewars](https://github.r2v.ch/codewars?user=OlaTisun&stroke=%23BB432C)
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olatisunkanmi&show_icons=true&locale=en&layout=compact" alt="olatisunkanmi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olatisunkanmi&show_icons=true&locale=en" alt="olatisunkanmi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olatisunkanmi&" alt="olatisunkanmi" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olatisunkanmi" alt="olatisunkanmi" /></a> </p>
 
