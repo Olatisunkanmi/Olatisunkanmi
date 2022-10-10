@@ -14,8 +14,3 @@
 - 📫 How to reach me **igbasanolasunkami080@gmail.com**
 
 - ⚡ Fun fact **Did you know that "The Mona Lisa has no eyebrows."**
-
-<h3 align="left">Connect with me:</h3>
-![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
-
-
