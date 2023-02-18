@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Crackedink.net](a href="[website-link-goes-here](https://www.crackedink.net)" target="_blank")
 
-- 📝 Read my  [Technical Articles](https://dev.to/olatisunkanmi)
+- 📝 Read my  [Technical Articles](https://dev.to/olatisunkanmi target="_blank")
 
 - 💬 Ask me about **creativity and Writing.**
 
