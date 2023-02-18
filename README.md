@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Fintech Projects**
 
-- 📝 I regularly write articles on [Crackedink.net](a href="[website-link-goes-here](https://www.crackedink.net)" target="_blank")
+- 📝 I regularly write articles on [Crackedink.net](https://www.crackedink.net)
 
-- 📝 Read my  [Technical Articles](https://dev.to/olatisunkanmi target="_blank")
+- 📝 Read my  [Technical Articles](https://dev.to/olatisunkanmi)
 
 - 💬 Ask me about **creativity and Writing.**
 
